@@ -1,0 +1,4 @@
+*.exe
+output/
+[Dd]ebug/
+[Rr]elease/
